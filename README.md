@@ -1,1 +1,1 @@
-# day6
+https://nusaybah516.github.io/day6/
